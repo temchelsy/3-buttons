@@ -2,3 +2,22 @@ body{
     background-color: darkslateblue;
     color: white;
 }
+main{
+    width: 300px;
+    padding: 20px;
+    margin: 20vh; auto;
+}
+button{
+    padding: 20px 40px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 100%;
+    font-size: 20px;
+    border: none;
+}
+
+#pink{
+    background-color: lightpink;
+}
+
